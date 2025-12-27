@@ -1,0 +1,7 @@
+id,type_minerai,Fe,Al2O3,SiO2,profondeur,zone
+1,fer,63.5,4.2,12,Nord
+2,fer,58.1,6.5,20,Nord
+3,fer,54.3,8.1,35,Sud
+4,bauxite,47.2,3.1,8,Ouest
+5,bauxite,44.8,5.6,15,Ouest
+6,bauxite,49.5,2.9,10,Est
